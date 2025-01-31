@@ -1,0 +1,4 @@
+On Board LEDS:
+LED D2 -> RxD glows when receiving the data
+LED D3 -> TxD glows when transmitting the data
+LED D4 -> Board Power glows when the board is powered on
