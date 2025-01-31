@@ -2,3 +2,22 @@ On Board LEDS:
 LED D2 -> RxD glows when receiving the data
 LED D3 -> TxD glows when transmitting the data
 LED D4 -> Board Power glows when the board is powered on
+
+On Board User LEDS: two
+
+
+one Push Button 
+one POT
+one LDR
+
+GPIO's Pin
+I2C -> 21 SDA & 22 SCL
+UART -> 1 TX & 3 RX    17 TX & 16 RX
+LDR -> 39 (Analog)
+POT -> 36 (Analog)
+LED1 -> 33
+LED2 -> 4
+Switch -> 32
+
+
+Boot Button at GPIO 0 can also be used as user button during program runnning time
