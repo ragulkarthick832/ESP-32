@@ -7,7 +7,7 @@ On Board User LEDS: two
 
 
 one Push Button 
-one POT
+one POT 
 one LDR
 
 GPIO's Pin
