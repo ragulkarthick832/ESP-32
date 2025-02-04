@@ -9,7 +9,7 @@ On Board User LEDS: two
 one Push Button 
 one POT 
 one LDR
-
+ 
 GPIO's Pin
 I2C -> 21 SDA & 22 SCL
 UART -> 1 TX & 3 RX    17 TX & 16 RX
